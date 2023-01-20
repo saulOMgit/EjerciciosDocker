@@ -1,3 +1,3 @@
 # EjerciciosDocker
 
-## [Ejercicios Docker Repaso](./Docker Ejercicios Repaso/DockerEjerciciosRepaso.md)
+## [Ejercicios Docker Repaso](Docker Ejercicios Repaso/DockerEjerciciosRepaso.md)
